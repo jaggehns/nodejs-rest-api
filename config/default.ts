@@ -1,4 +1,5 @@
 export default {
   port: 1337,
   dbUri: "mongodb://127.0.0.1:27017/nodejs-rest-api",
+  saltWorkFactor: 10,
 };
